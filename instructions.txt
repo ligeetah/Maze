@@ -1,0 +1,5 @@
+1)  It consist of a player 'P' and 5 enemies 'G'.
+2)  We have to move the player to its home '(   )' While avoiding the enemies.
+3)  Home is closed to open it we have to collect at least three checkpoints '*'.
+4)  Energizer 'O' is used to freeze the enemies.
+5)  Coins '.' are used to get score.
